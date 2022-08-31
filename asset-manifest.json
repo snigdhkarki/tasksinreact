@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/tasksinreact/static/css/main.31d6cfe0.css",
+    "main.js": "/tasksinreact/static/js/main.23600a9c.js",
+    "index.html": "/tasksinreact/index.html",
+    "main.23600a9c.js.map": "/tasksinreact/static/js/main.23600a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.23600a9c.js"
+  ]
+}
