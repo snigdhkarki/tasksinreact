@@ -17,7 +17,7 @@ class App extends Component{
     return(
       <div>
       <input type = "text" className="enter"></input>
-      <button type = "button" onClick={this.addtask}>Submit</button>
+      <button type = "button" onClick={this.addtask}>SUBmit</button>
       {this.state.tasks.map((task)=>(
         <div className="task" key ={task.id}>
           {task.name}
